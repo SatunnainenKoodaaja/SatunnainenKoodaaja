@@ -1,6 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# http://elecrow.com/
+#tämä on tehty crowpi alustalle Pythonilla
 
 import time
 import RPi.GPIO as GPIO
